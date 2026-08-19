@@ -1,7 +1,7 @@
 # Library-Management-System
 # Reg No: 212224110040
 # Name: Naveen R
-# Date: 17-08-2026
+# Date: 27-07-2026
 
 
 # AIM:
@@ -47,6 +47,9 @@ Specifying the context and requirements of a system
 
 # CLASS DIAGRAM
 
+<img width="1070" height="675" alt="image" src="https://github.com/user-attachments/assets/63b0f00b-a1cd-4917-b2dc-7b4eeef8d3bf" />
+
+
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
 among software engineers to document software architecture, class diagrams are a type of structure diagram because they describe what must be present in the system being modeled. No matter your level of familiarity with UML or class diagrams, our UML software is designed to be simple and easy to use.
@@ -62,6 +65,9 @@ Create detailed charts that…
 
 
 # COMMUNICTION DIAGRAM:
+
+<img width="1070" height="921" alt="image" src="https://github.com/user-attachments/assets/f0bbaeef-acaa-4bd5-954a-bbf4d53353e3" />
+
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
@@ -108,6 +114,9 @@ Describe the steps performed in a UML use case.
 
 
 # SEQUENCE DIAGRAM
+
+<img width="1160" height="742" alt="image" src="https://github.com/user-attachments/assets/7319be11-87a4-4639-a2b3-fd4b0b3c22cd" />
+
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
